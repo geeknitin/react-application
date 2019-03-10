@@ -1,2 +1,6 @@
-# react-redux-complete-playlist
-The course files for the React &amp; Redux Complete tutorial playlist on The Net Ninja YouTube channel.
+react-todo-application
+The todoapp is standalone react application. To run todoapp
+
+cd todoapp
+npm start
+It will run the todoapp at port 3000.
